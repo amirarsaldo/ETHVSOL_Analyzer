@@ -1,0 +1,14 @@
+├── config/
+│   └── team.json
+{
+  "success": true,
+  "team": {
+    "id": "503041ff-8aad-49c1-9138-a3efdd93c9e1",
+    "name": "ETHvSOL_Analyzer",
+    "email": "gotganpersia@gmail.com",
+    "contactPerson": "amir arsal",
+    "walletAddress": "0x0ba8B5B442Df5F5c23d7654c2a3918a84BE083E1",
+    "apiKey": "your_openai_api_key",
+    "createdAt": "2025-05-14T12:00:00.000Z"
+  }
+}
